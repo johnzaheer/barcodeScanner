@@ -14,8 +14,6 @@ import warnings
 from pyzbar import pyzbar
 from tkinter import messagebox
 
-#ascas
-
 warnings.filterwarnings("ignore")
 
 class barCodeScanner(Tk):
